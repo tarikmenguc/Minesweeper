@@ -1,0 +1,16 @@
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.deps.json
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.Form1.resources
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\refint\Minesweeper.dll
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0-windows\ref\Minesweeper.dll
